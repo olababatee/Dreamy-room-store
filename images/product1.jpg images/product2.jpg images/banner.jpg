@@ -1,0 +1,21 @@
+<section class="shop">
+    <h2>All Products</h2>
+    <div class="products">
+        <!-- All your product blocks go here -->
+        <div class="product">
+            <img src="images/product1.jpg" alt="Cozy Lamp">
+            <h3>Cozy Lamp</h3>
+            <p>$25.00</p>
+            <a href="product.html" class="btn">View</a>
+        </div>
+
+        <div class="product">
+            <img src="images/product2.jpg" alt="Decorative Pillow">
+            <h3>Decorative Pillow</h3>
+            <p>$15.00</p>
+            <a href="product.html" class="btn">View</a>
+        </div>
+
+        <!-- Add more products here -->
+    </div>
+</section>
